@@ -1,11 +1,11 @@
-name = "xl-vidio-hendri" # todo
+name = "xl-viu-aryo" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 routes = [
-	{ pattern = "hendri.kpmasjid.xyz", custom_domain = true }
+	{ pattern = "aryobrokolly.com", custom_domain = true }
 ]
 
 [vars]
@@ -15,4 +15,4 @@ routes = [
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "57705c93-a90c-481a-ac05-05203ccc0cd3"
+UUID = "b8d2db54-e92d-41f5-bf66-a648b71f540b"
