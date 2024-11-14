@@ -5,7 +5,10 @@ name = "xl-viu-aryo" # todo
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[ routes ]]
-pattern = "zaintest.vuclip.com.aryobrokolly.com"
+pattern = "sgdo.aryobrokolly.com"
+custom_domain = true
+[[ routes ]]
+pattern = "zaintest.vuclip.com.sgdo.aryobrokolly.com"
 custom_domain = true
 
 [vars]
