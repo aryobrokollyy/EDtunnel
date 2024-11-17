@@ -8,9 +8,6 @@ compatibility_date = "2025-05-26"
 pattern = "sgdo.aryobrokolly.my.id"
 custom_domain = true
 [[ routes ]]
-pattern = "zaintest.vuclip.com.aryobrokolly.my.id"
-custom_domain = true
-[[ routes ]]
 pattern = "zaintest.vuclip.com.sgdo.aryobrokolly.my.id"
 custom_domain = true
 
